@@ -1,0 +1,13 @@
+modem.img
+boot.img
+system/system/app/VoiceAssist/VoiceAssist.apk
+system/system/data-app/MIMediaEditor/MIMediaEditor.apk
+system/system/data-app/MIUIMusicStableUninstall/MIUIMusicStableUninstall.apk
+system/system/data-app/MiShop/MiShop.apk
+system/system/data-app/MiuiHealth/MiuiHealth.apk
+system/system/data-app/SmartHome/SmartHome.apk
+system/system/priv-app/MiBrowser/MiBrowser.apk
+system/system/priv-app/MiExtraPhoto/MiExtraPhoto.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system_ext/apex/com.android.vndk.v30.apex
+product/app/WebViewGoogle/WebViewGoogle.apk
